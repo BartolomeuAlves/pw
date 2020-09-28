@@ -1,0 +1,21 @@
+[1mdiff --git a/index.html b/index.html[m
+[1mindex a535b75..0b5871b 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -7,11 +7,10 @@[m
+ </head>[m
+ <body>[m
+ 	<h1>Olá mundo!!</h1>[m
+[31m-	<h2>Olá mundo!!</h2>[m
+[31m-	<h3>Olá mundo!!</h3>[m
+[31m-	<h4>Olá mundo!!</h4>[m
+[31m-	<h5>Olá mundo!!</h5>[m
+[31m-	<h6>Olá mundo!!</h6>[m
+[32m+[m	[32m<h2>IFTO integra 6ª Semana Integrada de Ciência e Tecnologia de Gurupi</h2>[m
+[32m+[m	[32m<h3>A 6ª Semana Integrada de Ciência e Tecnologia de Gurupi (SICTEG) será 100% on-line e gratuita, com realização nos dias 28, 29 e 30 de outubro. O Instituto Federal do Tocantins (IFTO) integra a organização do evento, que conta com espaço para apresentação dos trabalhos desenvolvidos no âmbito da instituição.[m
+ [m
+[32m+[m[32mNesse sentido, os pesquisadores interessados em apresentar as experiências exitosas oriundas do desenvolvimento de projetos executados nos ciclos 2018/2019 e 2019/2020, via o Programa de Apoio à Pesquisa (PAP), devem manifestar o interesse por meio de Formulário Eletrônico, até o dia 4 de outubro.</h3>[m
+[32m+[m[41m	[m
+ </body>[m
+ </html>[m
+\ No newline at end of file[m
