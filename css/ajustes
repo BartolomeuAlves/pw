@@ -1,0 +1,17 @@
+/*
+Seletores:
+class .nomeclass
+Id #nomeid
+nome_da_tag
+*/
+
+img{
+	margin: 0 auto;
+	display: block;
+}
+.centro{
+	text-align: center;
+}
+h2{
+	color: #21F4A7;
+}
